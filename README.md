@@ -1,6 +1,6 @@
-# mapsuite1. 
+# mapsuite
 
-Use Pip module to install two libraries, ignore if terminal returns conflict
+1. Use Pip module to install two libraries, ignore if terminal returns conflict
 	
 	$ pip install Pillow
 	$ pip install untangle
